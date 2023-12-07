@@ -5,16 +5,17 @@
   }
   
   body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #C4E327;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    color: #2E332A;
   }
   
   .container {
-    background-color: #fff;
+    background-color: #27E327;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -49,10 +50,10 @@
   }
   
   button {
-    background-color: #4caf50;
+    background-color: #E3D527;
     border-radius: 5px;
     border: none;
-    color: #fff;
+    color: #2E332A;
     cursor: pointer;
     font-size: 16px;
     padding: 10px 20px;
